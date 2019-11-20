@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212957887071",
+    "firebase_url": "https://internmetest.firebaseio.com",
+    "project_id": "internmetest",
+    "storage_bucket": "internmetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212957887071:android:7778b6087d41f6902539ea",
+        "android_client_info": {
+          "package_name": "com.internme.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212957887071-qaqbjfg20bl1s2flpruakvfflubthfm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgAwXpHiZM5xaVFb2ulR_VsNAr2KMwZzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212957887071-qaqbjfg20bl1s2flpruakvfflubthfm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
