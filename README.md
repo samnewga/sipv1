@@ -1,16 +1,26 @@
-# firebase_test
+SIP Project
+Status: MVP Completed
+Project Name: Combat Sports App
+Team Members: Samael Newgate
 
-A new Flutter project.
+Links:
 
-## Getting Started
+Gallery - https://imgur.com/a/PluhWWq
+Website - https://samnewga.github.io/sam-portfolio20/sip
+Video - https://www.youtube.com/watch?v=qrMBAPkj6N8&feature=youtu.be
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Innovation Claim:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The only user-friendly, high performing, visually appealing, extremely customizable combat sports feed app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Core Idea:
+
+- Combines all combat sports
+- Combines all high-level organizations
+- Feed based
+- Fully in-depth customization feed
+- User-friendly
+- Visually appealing
+
