@@ -1,6 +1,9 @@
 SIP Project
+
 Status: MVP Completed
+
 Project Name: Combat Sports App
+
 Team Members: Samael Newgate
 
 Links:
