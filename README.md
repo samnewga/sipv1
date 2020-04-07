@@ -6,7 +6,9 @@ Team Members: Samael Newgate
 Links:
 
 Gallery - https://imgur.com/a/PluhWWq
+
 Website - https://samnewga.github.io/sam-portfolio20/sip
+
 Video - https://www.youtube.com/watch?v=qrMBAPkj6N8&feature=youtu.be
 
 
